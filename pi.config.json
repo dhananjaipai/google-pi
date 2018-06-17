@@ -1,0 +1,16 @@
+[{
+        "pin": 1,
+        "name": "cooler",
+        "tags": ["bedroom cooler, sleeping cooler"]
+    },
+    {
+        "pin": 2,
+        "name": "charger",
+        "tags": ["mobile charger, phone charger"]
+    },
+    {
+        "pin": 3,
+        "name": "liquidator",
+        "tags": ["mosquito killer, phone charger"]
+    }
+]
